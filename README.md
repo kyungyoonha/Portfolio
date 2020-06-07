@@ -2,21 +2,6 @@
 > (Last update: 2020. 06. 07)
 <br><br>
 
-## 0. Table of Contents
-#### 1. [Work Experience](#work_experience)
-- Job Description
-#### 2. [Major Projects](#major_projects)
-- Projects
-- Application
-#### 3. [Job-related Education](#job_related)
-
-#### 4. [Study](#study)
-- Ongoing Study
-- To-do List
-#### 5. [Contact](#contact)
-<br><br>
-
-
 ## 1.Work Experience <a name="work_experience"></a>
 - ### Job Description
   - 로컬페이지(필리핀 여행사) 창업, 공동대표
