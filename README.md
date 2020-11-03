@@ -8,7 +8,7 @@
   - 카카오트리 스파 창업 & 운영, 공동대표
   - 버벌(통역중계) 창업 & 공동대표
 
-<br><br>
+<br>
 
 ## 2. Major Projects <a name="major_projects"></a>
 - ### Projects
