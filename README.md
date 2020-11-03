@@ -30,9 +30,9 @@
 - ### Application
 <img width="282" alt="코로나아웃" src="https://user-images.githubusercontent.com/45453533/82897996-7dee4e80-9f93-11ea-8d16-0f54e8d80fce.png"> &emsp;&emsp; ![망고플레이트](https://user-images.githubusercontent.com/45453533/82911319-b3e8fe00-9fa6-11ea-88ec-fe958819df21.gif)
 
-<br>
+<br><br>
 ![미션](https://github.com/kyungyoonha/portfolio_react_node_mission/blob/master/src/images/react_mission.gif)
-<br>
+
 ## 3. Job-related Education <a name="job_related"></a>
 |Title|Description|Stack|Duration|
 |:-------:|:-------:|:---:|:-----:|
