@@ -19,7 +19,7 @@
 |웹개발|스파 예약 작성 페이지|`GAS(Javascript)`,`HTML`,`CSS`,<br>`GoogleSheet API`|2020.01|
 |웹개발|예약 관리 페이지 + 알림톡 연동|`GAS(Javascript)`,`HTML`,`CSS`,<br>`GoogleSheet API`|2020.02|
 |웹개발|GA API 연동, 네이버 클릭광고 API 연동|`GAS(Javascript)`,`HTML`,`CSS`,<br>`GoogleSheet API`|2020.02|
-|웹개발|코로나아웃::공적마스크 재고 알리미<br>https://coronaout.kr|`Node.js`,`HTML`,`CSS`,<br>`kakaoMap API`,`AWS LightSail`|2020.03|
+|웹개발|코로나아웃::공적마스크 재고 알리미<br>https://coronaout.kr (현재서비스 중지) |`Node.js`,`HTML`,`CSS`,<br>`kakaoMap API`,`AWS LightSail`|2020.03|
 |디자인|로컬페이지 홈페이지 및 컨텐츠 제작|`Illustrator`, `PowerPoint`|2017 -|
 |디자인|카카오트리스파 홈페이지 및 컨텐츠 제작|`Illustrator`, `PowerPoint`|2019 -|
 |디자인|버벌 홈페이지 및 컨텐츠 제작|`Illustrator`, `PowerPoint`|2020 -|
