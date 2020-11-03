@@ -14,8 +14,8 @@
 - ### Projects
 |Title|Description|Stack|Duration|
 |:-------:|:-------:|:---:|:-----:|
-|프론트|Admin 페이지 만들기<br>https://github.com/kyungyoonha/portfolio_react_redux_AdminPage| `react`, `nodejs`, `html`, `css` |2020.10 - 진행중| 
-|프론트|리액트 미션 1~10단계 <br>https://github.com/kyungyoonha/portfolio_react_node_mission |`react`, `nodejs`, `html`, `css`|2020.09|
+|프론트|Admin 페이지 만들기<br>[링크](https://github.com/kyungyoonha/portfolio_react_redux_AdminPage)| `react`, `nodejs`, `html`, `css` |2020.10 - 진행중| 
+|프론트|리액트 미션 1~10단계 <br>[링크](https://github.com/kyungyoonha/portfolio_react_node_mission) |`react`, `nodejs`, `html`, `css`|2020.09|
 |디자인|버벌 홈페이지 및 컨텐츠 제작|`Illustrator`, `PowerPoint`|2020 04|
 |디자인|카카오트리스파 홈페이지 및 컨텐츠 제작|`Illustrator`, `PowerPoint`|2019 -|
 |디자인|로컬페이지 홈페이지 및 컨텐츠 제작|`Illustrator`, `PowerPoint`|2017 -|
@@ -28,25 +28,32 @@
 
 
 - ### Application
-<img width="282" alt="코로나아웃" src="https://user-images.githubusercontent.com/45453533/82897996-7dee4e80-9f93-11ea-8d16-0f54e8d80fce.png"> &emsp;&emsp; ![망고플레이트](https://user-images.githubusercontent.com/45453533/82911319-b3e8fe00-9fa6-11ea-88ec-fe958819df21.gif)
+|<img width="282" alt="코로나아웃" src="https://user-images.githubusercontent.com/45453533/82897996-7dee4e80-9f93-11ea-8d16-0f54e8d80fce.png"> &emsp;&emsp;| ![망고플레이트](https://user-images.githubusercontent.com/45453533/82911319-b3e8fe00-9fa6-11ea-88ec-fe958819df21.gif)|
+|---|---|
+|![img](https://github.com/kyungyoonha/portfolio_react_kakaoMessageAPI/raw/master/img/%EC%95%8C%EB%A6%BC%ED%86%A1.gif)|![미션](https://github.com/kyungyoonha/portfolio_react_node_mission/blob/master/src/images/react_mission.gif)|
+
 
 <br><br>
-![미션](https://github.com/kyungyoonha/portfolio_react_node_mission/blob/master/src/images/react_mission.gif)
+
 
 ## 3. Job-related Education <a name="job_related"></a>
 |Title|Description|Stack|Duration|
 |:-------:|:-------:|:---:|:-----:|
-|유니윌|빅데이터, 머신러닝 전문가 양성과정|`Python`,`SQL`,`R`|2017.04 - 2017.10|
-|패스트 캠퍼스(강의)|파이썬 업무 자동화|`Python`,`HTML`|2018.05|
-|패스트 캠퍼스|노드JS로 구현하는 쇼핑몰 프로젝트|`HTML`, `CSS`, `Javascript`,<br> `Node.js`,`MongoDB`|2019. 10|
+|리액트공부| Admin Page만들기|`react`|2020.10|
+|리액트공부| 리액트 미션 |`react`|2020.08|
 |Umedy 강의| Morden React with Redux. Stephen Grider|`React`|2020.05|
+|패스트 캠퍼스|노드JS로 구현하는 쇼핑몰 프로젝트|`HTML`, `CSS`, `Javascript`,<br> `Node.js`,`MongoDB`|2019. 10|
+|패스트 캠퍼스(강의)|파이썬 업무 자동화|`Python`,`HTML`|2018.05|
+|유니윌|빅데이터, 머신러닝 전문가 양성과정|`Python`,`SQL`,`R`|2017.04 - 2017.10|
 
 <br><br>
 
 ## 4. Study <a name="study"></a>
 - #### Ongoing Study
+  - 왓챠피디아 클론 코딩 스터디
   - Project. 리액트로 예약 관리페이지 만들기 `React`+`알림톡 API`+`Netlify`
   - 패스트캠퍼스 강의. 프론트엔드(React)
+  - 리액트 최적화 강의 인프런
   
 - #### To-do-List
   - Udemy 강의. Microservices with Node JS and React. Stephen Grider
